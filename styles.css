@@ -14,7 +14,7 @@ body {
 .bg{
   overflow:hidden;
   background-size: 50px 50px;
-  background-image:;
+  background-image:
     linear-gradient(to right, #45ABA8 1px, transparent 1px),
     linear-gradient(to bottom,#45ABA8 1px, transparent 1px);
   
